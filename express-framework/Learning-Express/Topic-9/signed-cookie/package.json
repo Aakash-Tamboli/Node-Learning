@@ -1,0 +1,19 @@
+{
+  "name": "signed-cookie",
+  "version": "1.0.0",
+  "main": "./src/Server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon ./src/Server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
