@@ -5,4 +5,4 @@ Express is a minimal and flexible Node.js web application framework that provide
 `Learning Express` named folder contains all the concepts that I study during my express learning.
 
 # Projects
-- [Multer](https://github.com/Aakash-Tamboli/Node-Learning/blob/master/express-framework/Learning-Express/Docs/Multer.md)
+`Projects` named folder contains all the minor projects that I created in my express journey.
