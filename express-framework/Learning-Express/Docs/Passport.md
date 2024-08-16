@@ -2,6 +2,9 @@
 
 This guide provides steps to set up user authentication using the `passport` and `passport-local` packages in a Node.js application.
 
+## Fundamental Requirement
+Hence credenitals will come in POST type request,So you know very well how to use express.json() or how to extract value from body
+
 ## Installation
 
 First, install the necessary packages:
