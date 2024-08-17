@@ -127,5 +127,7 @@ app.get("/api/anyEndPoint", (req, res) => {
 
 This ensures that the user object is available in `req.user` for further logic, simplifying authentication checks throughout the application.
 
-### Next Topic
-[EJS](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/16-EJS)
+## Next Topic
+
+[EJS](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/16-EJS)
+
