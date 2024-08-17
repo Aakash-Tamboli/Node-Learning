@@ -1,0 +1,2 @@
+I'm on Ubuntu 24.04 LTD Nobel hence mongod is not avaialable to it,
+So I decided to either use mysql or dummy data which will treated as db
