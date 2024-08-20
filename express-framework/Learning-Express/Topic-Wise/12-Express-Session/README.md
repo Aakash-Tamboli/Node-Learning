@@ -109,3 +109,7 @@ app.use(session({
 ```
 
 This setup ensures that session data is persisted in Redis, making it scalable and suitable for production environments.
+
+# Next Topic
+
+[Authentication (Passport module)](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/13-Authentication)

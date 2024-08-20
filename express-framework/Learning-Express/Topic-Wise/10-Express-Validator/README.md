@@ -132,3 +132,7 @@ app.post('/register', checkSchema(registrationSchema), (req, res) => {
 - **`checkSchema()`**: Define validation rules using a schema for more complex validations.
 
 Using `express-validator` helps ensure that your application processes only valid and sanitized data, reducing the risk of errors and security vulnerabilities.
+
+# Next Topic
+
+[Cookies](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/11-Cookies)
