@@ -70,3 +70,8 @@ node app.js
 
 3. Your server will start running at `http://localhost:3000`.
 4. Send a POST request to `http://localhost:3000/submit` and check the console for the logged data.
+
+## Next Topic
+
+[POST With JSON](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/7-POST-JSON)
+
