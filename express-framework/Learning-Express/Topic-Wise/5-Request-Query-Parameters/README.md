@@ -27,3 +27,7 @@ In this example:
 - `req.query.sort` will give you the value `"asc"`.
 
 `request.query` is particularly useful when you want to handle search parameters, filters, or any other data that can be included in the URL of a GET request.
+
+# Next Topic
+
+[POST Without JSON](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/5-Request-Query-Parameters)
