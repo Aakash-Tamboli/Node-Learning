@@ -10,7 +10,7 @@ const database = [
 {id:3,username:"Beena",gender:'F'},
 ];
 
-app.put("/api/users/:id",(request,response)=>{
+app.put("/api/updateUser/:id",(request,response)=>{
 const {body} = request;
 const {username,gender} = body;
 const id=request.params.id;
