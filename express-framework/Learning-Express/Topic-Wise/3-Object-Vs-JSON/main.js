@@ -1,3 +1,5 @@
+// JSON is inspired from javascript object feature
+
 let object = {
     name: "Aakash",
     age : 26,
