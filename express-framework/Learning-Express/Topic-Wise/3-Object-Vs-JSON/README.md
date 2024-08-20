@@ -86,4 +86,9 @@ const user = {
 ```
 
 ## Summary
+
 While JSON and JavaScript objects share a similar syntax, JSON is a text-based format for data exchange, whereas objects are a core part of JavaScript used to structure and manage data within the application.
+
+## Next Topic
+
+[Request Params Feature](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/4-Request-Params)
