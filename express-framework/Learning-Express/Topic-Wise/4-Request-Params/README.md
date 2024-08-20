@@ -37,3 +37,6 @@ app.listen(3000, () => {
 - **Product Pages**: Displaying product information based on a product ID in the URL.
 - **SEO-Friendly URLs**: Creating URLs with meaningful segments that can be used to capture and use data dynamically.\
 
+## Next Topic
+
+[Request Query Parameters](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/5-Request-Query-Parameters)
