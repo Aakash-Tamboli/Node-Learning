@@ -65,6 +65,10 @@ app.listen(3000, () => {
 });
 ```
 
+# Clearing Cookies on the Client Side with JavaScript
+
+[Clearing Cookies on the Client Side with JavaScript]()
+
 # Next Topic
 
 [Express-Session](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/12-Express-Session)
