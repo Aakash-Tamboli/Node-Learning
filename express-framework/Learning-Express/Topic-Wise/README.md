@@ -21,6 +21,8 @@ Every instructor teaches according to their designed syllabus hence as student, 
 - 15-multer
 - 16-Download
 - 17-Files-Download-in-Zip
+- 18-WebSocket
+- 19-HTTP-Codes
 
 # Credit
 
