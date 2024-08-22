@@ -1,12 +1,19 @@
-# 🎓 Hoisting, `let`, and `const` in JavaScript – Learning Journey 🚀
-
-Hey there, fellow coder! 🎉 Let's dive into the magical world of JavaScript, where things aren’t always what they seem. Today, we’re tackling **hoisting** and the mighty `let` and `const` keywords. Ready? Let’s go! 🏃‍♂️💨
-
-## 🧙‍♂️ What is Hoisting?
+# 🧙‍♂️ What is Hoisting?
 
 Imagine JavaScript as a quirky magician. 🎩✨ When you write your code, it secretly goes, "Abracadabra!" and pulls variables and functions to the top of their scope, even before the code runs. This sneaky trick is called **hoisting**.
 
 But here's the catch—only the **declarations** are hoisted, not the initializations. Think of it as the magician bringing the rabbit out of the hat but forgetting to make it fluffy until later. 🐇
+
+### For Video Example
+
+- [Hoisting](https://youtu.be/izlLVx_dTH0?feature=shared)
+
+- [let Keyword](https://youtu.be/dvpKScnKOHw?feature=shared)
+
+- [const keyword](https://youtu.be/QS-c5aQS_Mw?feature=shared)
+
+- [let vs const](https://youtu.be/kFgb4Hcxer8?feature=shared)
+
 
 ### Example:
 

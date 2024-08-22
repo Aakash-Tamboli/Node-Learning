@@ -19,6 +19,8 @@ Here are some of the shiny new toys ES6 brings to the table:
 
 - [Rest & Spread Operator]()
 
+- [Object Literals]()
+
 - [Destructuring]()
 
 - [String Template]()

@@ -1,10 +1,12 @@
-# 🚀 JavaScript Essentials: Arrow Functions, `let`, and `const`!
-
-Hey there, future JavaScript wizard! 🌟 Ready to level up your coding game? Let’s dive into some ES6 magic with **Arrow Functions**.
-
-## 🎯 Arrow Functions: The Cool, Concise Way to Write Functions!
+# 🎯 Arrow Functions: The Cool, Concise Way to Write Functions!
 
 Arrow functions are like the new kids on the block who know how to keep things short and sweet. Imagine you have to write a function, but you don’t want to keep typing that long `function` keyword—arrow functions to the rescue! 🏹
+
+## Video
+
+- [Arrow Functions](https://youtu.be/4N-L3Mmzu0Y?feature=shared)
+
+- [Lexical with 'this'](https://youtu.be/0T5M3agKEnk?feature=shared)
 
 ### Basic Syntax
 
