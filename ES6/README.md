@@ -11,81 +11,23 @@ ES6 (ECMAScript 2015) is a major update to the JavaScript language. Think of it 
 ## 🚀 What's New in ES6?
 
 Here are some of the shiny new toys ES6 brings to the table:
+- [Hoisting]()
 
-### 1. **Let & Const**
+- [Arrow Functions]()
 
-Say goodbye to `var` and hello to `let` and `const`! These new keywords help manage variables with block-level scope. 🌈
-- `let` is perfect for variables that can change.
-- `const` is your go-to for constants that stay the same.
+- [Default Argument]()
 
-### 2. **Arrow Functions**
+- [Rest & Spread Operator]()
 
-Shorter, snappier, and way more fun! Arrow functions make writing functions a breeze. 🌬️
-```javascript
-const add = (a, b) => a + b;
-```
+- [Destructuring]()
 
-### 3. **Template Literals**
+- [String Template]()
 
-Wave goodbye to clunky string concatenation. Template literals let you create strings with embedded expressions, using backticks (`) instead of quotes. 🧩
-```javascript
-const name = 'world';
-console.log(`Hello, ${name}!`); // Hello, world!
-```
+- [For of Loop]()
 
-### 4. **Destructuring Assignment**
+- [OOPs]()
 
-Grab values from arrays or objects with ease! Destructuring makes extracting data a piece of cake. 🎂
-```javascript
-const [a, b] = [1, 2];
-const { x, y } = { x: 10, y: 20 };
-```
-
-### 5. **Default Parameters**
-
-No more undefined values! Default parameters let you set default values for your function parameters. 🌟
-```javascript
-function greet(name = 'stranger') {
-  return `Hello, ${name}!`;
-}
-```
-
-### 6. **Classes**
-
-ES6 introduces classes, making it easier to create and work with objects and inheritance. 🏛️
-```javascript
-class Person {
-  constructor(name) {
-    this.name = name;
-  }
-  
-  greet() {
-    return `Hello, ${this.name}!`;
-  }
-}
-```
-
-### 7. **Promises**
-
-Handle asynchronous operations with style! Promises make working with async code simpler and more manageable. 💫
-```javascript
-fetch('/data')
-  .then(response => response.json())
-  .then(data => console.log(data))
-  .catch(error => console.error('Error:', error));
-```
-
-### 8. **Modules**
-
-ES6 introduces modules for better organization of code. Use `import` and `export` to manage dependencies and keep your code tidy. 📦
-```javascript
-// module.js
-export const greet = name => `Hello, ${name}!`;
-
-// app.js
-import { greet } from './module.js';
-console.log(greet('world'));
-```
+- [Modules]()
 
 ## 🔄 How Does ES6 Differ from Regular JavaScript?
 
