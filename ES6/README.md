@@ -11,25 +11,26 @@ ES6 (ECMAScript 2015) is a major update to the JavaScript language. Think of it 
 ## 🚀 What's New in ES6?
 
 Here are some of the shiny new toys ES6 brings to the table:
-- [Hoisting]()
 
-- [Arrow Functions]()
+- [Hoisting](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/01-Hoisting)
 
-- [Default Argument]()
+- [Arrow Functions](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/02-Arrow-Functions)
 
-- [Rest & Spread Operator]()
+- [Default Argument](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/03-Default-Arguments)
 
-- [Object Literals]()
+- [Rest & Spread Operator](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/04-Rest-AND-Spread-Operator)
 
-- [Destructuring]()
+- [Object Literals](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/05-Object-Literals)
 
-- [String Template]()
+- [Destructuring](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/06-Destructuring)
 
-- [For of Loop]()
+- [String Template](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/07-String-Template)
 
-- [OOPs]()
+- [For of Loop](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/08-For-Of-Loop)
 
-- [Modules]()
+- [OOPs](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/09-OOPs)
+
+- [Modules](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/10-Modules)
 
 ## 🔄 How Does ES6 Differ from Regular JavaScript?
 
