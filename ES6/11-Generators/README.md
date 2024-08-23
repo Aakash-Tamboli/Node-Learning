@@ -127,3 +127,5 @@ for (const value of iterableObject) {
 Generators are a powerful tool in JavaScript's arsenal, allowing developers to handle asynchronous code, manage infinite sequences, and create custom iteration patterns with ease. They're like the Swiss Army knife of functions—versatile, handy, and sometimes a bit tricky, but once you get the hang of them, they're invaluable!
 
 So, the next time you're watching a TV series, think about how Generators work similarly by pausing and resuming. And when you're coding, remember the magic of `function*`! 🌟
+
+# [Next Topic -> In-Built DS In JS](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/12-InBuilt-DS)
