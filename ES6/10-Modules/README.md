@@ -123,3 +123,4 @@ ES6 modules bring structure and efficiency to your JavaScript code. With feature
 
 Happy coding, and may your modules always be perfectly exported! 🚀🎈
 
+# [Next Topic -> Generators]()
