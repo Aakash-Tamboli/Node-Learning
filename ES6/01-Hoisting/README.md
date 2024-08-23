@@ -90,3 +90,4 @@ So, what did we learn today?
 
 Keep experimenting, and soon you'll be a JS wizard! 🌟✨ Don’t forget to push your notes to GitHub and show off your learning journey. Until next time, happy coding! 🎈👨‍💻
 
+# [Next Topic -> Arrow Functions](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/02-Arrow-Functions)

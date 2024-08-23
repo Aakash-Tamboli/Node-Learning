@@ -83,3 +83,4 @@ Basically, anytime you're dealing with strings (which is like, all the time), St
 
 String Templates are one of those features that make you wonder how you ever lived without them. They're not just a "nice-to-have"—they're a game-changer in how you write and manage strings in your code. So go ahead, embrace the backticks, and let the magic of String Templates elevate your JavaScript skills to the next level! 🚀✨
 
+# [Next Topic -> For of Loop](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/08-For-Of-Loop)

@@ -97,3 +97,4 @@ And there you have it! Object Literals in ES6 make your JavaScript code more exp
 
 Happy Coding! 👩‍💻👨‍💻
 
+# [Next Topic -> Destructuring](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/06-Destructuring)

@@ -112,3 +112,5 @@ Here's a quick summary of what we’ve covered:
 Dive into these concepts, play around with the examples, and you'll be building robust, reusable code in no time. Happy coding! 🎉
 
 Feel free to check out my GitHub notes for more tech adventures! 🚀
+
+# [Next Topic -> Modules](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/10-Modules)

@@ -38,3 +38,5 @@ const numbers = [1, 2, 3, 4];
 const squared = numbers.map(num => num * 2);
 console.log(squared); // [2, 4, 6, 8]
 ```
+
+# [Next Topic -> Default Arguments](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/03-Default-Arguments)

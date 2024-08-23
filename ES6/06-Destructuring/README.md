@@ -152,3 +152,4 @@ Destructuring in ES6 is like having a magical toolkit that makes coding faster, 
 
 Happy coding! 😄
 
+# [Next Topic -> String Template](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/07-String-Template)

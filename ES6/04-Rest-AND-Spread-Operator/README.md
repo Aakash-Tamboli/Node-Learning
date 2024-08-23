@@ -72,3 +72,4 @@ console.log(finalSettings);
 
 So, there you have it! The Rest and Spread operators are like the dynamic duo of ES6—gathering stuff up when you need it and spreading it out when you don’t. Whether you're handling a gazillion function arguments or merging objects like a boss, these operators make your code cleaner and more expressive. Now go forth and sprinkle some ES6 magic in your projects! ✨
 
+# [Next Topic -> Object Literals](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/ES6/05-Object-Literals)
