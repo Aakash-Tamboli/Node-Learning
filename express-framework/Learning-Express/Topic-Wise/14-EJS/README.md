@@ -152,6 +152,10 @@ const html = ejs.render(template, { title: 'Static EJS', message: 'This is stati
 console.log(html);
 ```
 
+# Most Relatable Topic
+
+- [How to Server Static Files like style.css, script.js which is located in public folder](../20-Serving-Static-files/README.md)
+
 # Next Topic
 
 [Client Can upload images/files hence Multer Package](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/15-multer)
