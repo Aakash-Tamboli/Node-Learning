@@ -6,3 +6,10 @@ Node-Learning Repo. contains all the learning topic and relevent small projects
 
 # Mostly Used modules
 - [Express](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework)
+
+# Checklist 
+
+It is good for refreshing concept for fluent devlopment in project.
+
+- EJS,Serving public folder files
+-
