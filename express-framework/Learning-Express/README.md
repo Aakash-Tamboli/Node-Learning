@@ -1,11 +1,8 @@
 # Learning Express
 
-In order to learn express, I choose two approaches i.e `Topic-Wise` and `Bootcamps`
+In order to learn express, I choosed`Topic-Wise Apporach`. 
 
 # Topic-Wise
 
-In `Topic-Wise`, I focused on learning concepts rather than building products
+In `Topic-Wise`, I focused on learning concepts rather than building products.
 
-# Bootcamps
-
-In `Bootcamps`, I focused on learning application of concepts.
