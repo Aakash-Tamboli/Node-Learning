@@ -1,6 +1,6 @@
 # Express.js `PUT` HTTP Verb Example
 
-This example demonstrates how to use the `PUT` HTTP verb in an Express.js application to update or replace an existing resource.
+~~ This example demonstrates how to use the `PUT` HTTP verb in an Express.js application to update or replace an existing resource. ~~
 
 ## Overview
 
