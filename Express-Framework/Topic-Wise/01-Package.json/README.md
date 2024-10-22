@@ -55,4 +55,4 @@ In summary, `package.json` is the backbone of a Node.js project, providing the n
 
 ## Next Topic
 
-[Basic Flow of Express](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/02-Basic-Flow-Of-Express)
+[Basic Flow of Express](../02-Basic-Flow-Of-Express/README.md)
