@@ -77,4 +77,4 @@ node app.js
 
 # Next Topic
 
-[PUT Request](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/08-PUT)
+[PUT Request](../08-PUT/README.md)

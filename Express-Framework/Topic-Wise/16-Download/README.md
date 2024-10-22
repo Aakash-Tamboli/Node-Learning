@@ -70,4 +70,4 @@ Open your browser and go to `http://localhost:3000/download`. The file `example.
 
 # Next Topic
 
-[Client can Download folder structure as zip using Achiver module](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/17-Files-Download-in-Zip)
+[Client can Download folder structure as zip using Achiver module](../17-Files-Download-in-Zip/README.md)

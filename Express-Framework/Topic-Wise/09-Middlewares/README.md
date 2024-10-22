@@ -116,4 +116,4 @@ Middleware in Express.js provides a powerful mechanism to handle requests, respo
 
 # Next Topic
 
-[Express Validator](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/10-Express-Validator)
+[Express Validator](../10-Express-Validator/README.md)

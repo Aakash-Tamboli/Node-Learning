@@ -30,4 +30,4 @@ In this example:
 
 # Next Topic
 
-[POST Without JSON](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/06-POST-NO-JSON)
+[POST Without JSON](../06-POST-NO-JSON/README.md)

@@ -73,5 +73,5 @@ node app.js
 
 ## Next Topic
 
-[POST With JSON](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/07-POST-JSON)
+[POST With JSON](../07-POST-JSON/README.md)
 

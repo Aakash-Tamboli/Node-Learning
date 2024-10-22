@@ -80,4 +80,4 @@ This project is a simple real-time chat application built using **Express.js** a
 
 # Next Topic
 
-[HTTP Codes](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/19-HTTP-Codes)
+[HTTP Codes](../19-HTTP-Codes/README.md)

@@ -91,4 +91,4 @@ While JSON and JavaScript objects share a similar syntax, JSON is a text-based f
 
 ## Next Topic
 
-[Request Params Feature](https://github.com/Aakash-Tamboli/Node-Learning/tree/master/express-framework/Learning-Express/Topic-Wise/04-Request-Params)
+[Request Params Feature](../04-Request-Params/README.md)
