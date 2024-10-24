@@ -32,3 +32,7 @@ This document provides a list of the most commonly used HTTP status codes, categ
 - **502 Bad Gateway**: The server, while acting as a gateway or proxy, received an invalid response from the upstream server.
 - **503 Service Unavailable**: The server is not ready to handle the request, often due to temporary overloading or maintenance.
 - **504 Gateway Timeout**: The server, while acting as a gateway or proxy, did not receive a timely response from the upstream server.
+
+## Next Topic
+
+[Serve Static Files](../20-Serving-Static-files/README.md)

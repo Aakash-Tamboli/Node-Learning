@@ -122,3 +122,7 @@ Once the server is running, open your web browser and navigate to `http://localh
 
 This project serves as a fundamental example of how to use Express.js to handle static files. It can be expanded upon by adding more routes, middleware, and additional functionalities as required.
 
+## Next Topic
+
+[Flash](../21-Flash/README.md)
+
