@@ -42,6 +42,10 @@ Every instructor teaches according to their designed syllabus hence as student, 
 
 - [19-HTTP-Codes](./Topic-Wise/19-HTTP-Codes/README.md)
 
+- [20-Serving-Static Files](./Topic-Wise/20-Serving-Static-files/README.md)
+
+- [21-Flash](./Topic-Wise/21-Flash/README.md)
+
 # Credit
 
 Thanks to God, Mom and Kelkar Sir,
