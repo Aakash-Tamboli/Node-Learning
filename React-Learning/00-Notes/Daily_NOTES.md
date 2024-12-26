@@ -13,11 +13,11 @@
 - [What is setState method in react and what it do?](https://www.geeksforgeeks.org/reactjs-setstate/)
 - [What are the life-cycle method of Class based Component?](https://www.geeksforgeeks.org/reactjs-lifecycle-components/)
 - [What is useState in React?](https://www.geeksforgeeks.org/reactjs-usestate-hook/)
-- [useEffect hook and manage dependency logics](https://www.geeksforgeeks.org/reactjs-useeffect-hook/)
-- [data fetching using useEffect]
-- [manage loading state]
-- [useContext and react context api]
-- [useReducer hook]
+- [useEffect hook](https://www.geeksforgeeks.org/reactjs-useeffect-hook/)
+- [managing dependency using useEffect](https://www.geeksforgeeks.org/what-are-the-dependencies-in-useeffect-and-why-are-they-important/)
+- [Data fetching using useEffect](https://www.geeksforgeeks.org/fetching-data-from-an-api-with-useeffect-and-usestate-hook/)
+- [useContext and react context api](https://www.geeksforgeeks.org/explain-new-context-api-in-react/)
+- [useReducer hook](https://www.geeksforgeeks.org/reactjs-usereducer-hook/)
 
 
 
